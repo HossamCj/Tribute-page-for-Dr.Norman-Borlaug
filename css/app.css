@@ -19,7 +19,7 @@ body {
 
 .container {
     justify-content: center;
-    width: 92%;
+    width: 96%;
     text-align: center;
     margin: 0 auto;
 }
@@ -50,6 +50,7 @@ section:first-child p {
 img {
     max-width: 100%;
     display: block;
+    margin: 0 auto;
 }
 
 #img-div p {
